@@ -1,9 +1,10 @@
 # Understanding_Routing_Assignment
 
 Create a server file that generates thee specidfied response for the following url requests:
-    1. locahost:5000/ - Have it say "Hello World!"
-    2. locahost:5000/dojo - have it say "Dojo!"
-
+    1. locahost:5000/ 
+        - Have it say "Hello World!"
+    2. locahost:5000/dojo 
+        - have it say "Dojo!"
     3. Create one url pattern and function that can handle the following examples:
         - locahost:5000/say/flask - have it say "Hi Flask!"
         - locahost:5000/say/michael - have it say "Hi Michael!"
